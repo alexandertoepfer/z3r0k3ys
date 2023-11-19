@@ -1,7 +1,7 @@
 
 <h1 align="center">🤠 Howdy! I'm Alexander Töpfer</h1>
 <p align="center">
-I'm a Software Engineer with a passion for C++20 from Germany <img src="https://flagpedia.net/data/flags/mini/de.png" width="20"></img>
+I'm a Software Engineer with a passion for C++20 from Germany <img src="https://flagpedia.net/data/flags/mini/de.png" width="20"></img><br>
 Here you can find anything I worked on from Brilliant, Leetcode or private projects.
 </p>
 <p align="center">
